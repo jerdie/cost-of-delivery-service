@@ -1,0 +1,6 @@
+rule:
+  prices:
+    heavy: 20
+    small: 0.03
+    medium: 0.04
+    large: 0.05
